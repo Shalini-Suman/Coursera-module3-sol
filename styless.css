@@ -1,0 +1,35 @@
+.features-box{
+	padding: 0 5%;
+	text-align: center;
+}
+
+.icons{
+	font-size: 60px;
+	margin-bottom: 1rem;
+	color: blue;
+	}
+
+	h3{
+	font-family: Montserrat,Ubuntu,sans-serif;
+}
+
+*#Features{
+	padding: 7% 15%;
+	background-color: white;
+	position: relative;
+	z-index: 1*
+
+}
+.first{
+	background-color: pink;
+	font-size: 1.2rem;
+}
+.second{
+	background-color: green;
+	font-size: 1.2rem;
+}
+.third{
+	background-color: yellow;
+	font-size: 1.2rem;
+}
+
